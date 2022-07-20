@@ -1,6 +1,6 @@
 # Devium
 
-Heyo 👋, I'm Devium I am a developer live in the US and I am learning many languages.
+Heyo 👋, I'm Devium I am a developer that lives in the US and I am learning many languages.
 
 ## Tools I use / have used
 
