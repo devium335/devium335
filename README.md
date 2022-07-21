@@ -9,7 +9,7 @@ Heyo 👋, I'm Devium I am a developer that lives in the US and I am learning ma
 ![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=Python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=Python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
 
 ### Frameworks, Libraries and Packages
@@ -33,7 +33,7 @@ Heyo 👋, I'm Devium I am a developer that lives in the US and I am learning ma
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
-![pypi](https://img.shields.io/badge/pypi-FFD242?logo=pypi&logoColor=blue)
+![pypi](https://img.shields.io/badge/pypi-FFD242?logo=pypi&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 ![Intellij](https://img.shields.io/badge/Intellij-000000?logo=intellij-idea&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white)
