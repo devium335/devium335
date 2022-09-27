@@ -19,6 +19,7 @@ Heyo 👋, I'm Devium I am a developer that lives in the US and I am learning ma
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/pre-commit-FAB040?logo=pre-commit&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
 
 ### Hosting, Infrastructure and Databases
 
