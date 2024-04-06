@@ -1,4 +1,5 @@
 # About Me
+[![wakatime](https://wakatime.com/badge/user/fac97053-ce57-4720-b741-388655c4f3b0.svg)](https://wakatime.com/@fac97053-ce57-4720-b741-388655c4f3b0)
 
 ### Tools I use/have used:
 
