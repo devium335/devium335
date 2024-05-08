@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=devium335&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # About Me
 [![wakatime](https://wakatime.com/badge/user/fac97053-ce57-4720-b741-388655c4f3b0.svg)](https://wakatime.com/@fac97053-ce57-4720-b741-388655c4f3b0)
 
