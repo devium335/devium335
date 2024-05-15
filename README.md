@@ -21,3 +21,5 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devium335)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://raw.githubusercontent.com/devium335/devium335/output/github-contribution-grid-snake-dark.svg)
