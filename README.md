@@ -1,5 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=devium335&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 # About Me
 [![wakatime](https://wakatime.com/badge/user/fac97053-ce57-4720-b741-388655c4f3b0.svg)](https://wakatime.com/@fac97053-ce57-4720-b741-388655c4f3b0)
 
@@ -21,5 +22,7 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devium335)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-xl.svg)](https://huggingface.co/devium335)
 
 ![Snake animation](https://raw.githubusercontent.com/devium335/devium335/output/github-contribution-grid-snake-dark.svg)
